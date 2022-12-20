@@ -1,0 +1,15 @@
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\Zadacha_420.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\Zadacha_420.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\Zadacha_420.AssemblyInfoInputs.cache
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\Zadacha_420.AssemblyInfo.cs
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\Zadacha_420.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#_Seminar\Zadacha_420\bin\Debug\net6.0\Zadacha_420.exe
+D:\Рабочий стол\C#_Seminar\Zadacha_420\bin\Debug\net6.0\Zadacha_420.deps.json
+D:\Рабочий стол\C#_Seminar\Zadacha_420\bin\Debug\net6.0\Zadacha_420.runtimeconfig.json
+D:\Рабочий стол\C#_Seminar\Zadacha_420\bin\Debug\net6.0\Zadacha_420.dll
+D:\Рабочий стол\C#_Seminar\Zadacha_420\bin\Debug\net6.0\Zadacha_420.pdb
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\Zadacha_420.dll
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\refint\Zadacha_420.dll
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\Zadacha_420.pdb
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\Zadacha_420.genruntimeconfig.cache
+D:\Рабочий стол\C#_Seminar\Zadacha_420\obj\Debug\net6.0\ref\Zadacha_420.dll

@@ -1,0 +1,15 @@
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\Zadacha_421.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\Zadacha_421.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\Zadacha_421.AssemblyInfoInputs.cache
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\Zadacha_421.AssemblyInfo.cs
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\Zadacha_421.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#_Seminar\Zadacha_421\bin\Debug\net6.0\Zadacha_421.exe
+D:\Рабочий стол\C#_Seminar\Zadacha_421\bin\Debug\net6.0\Zadacha_421.deps.json
+D:\Рабочий стол\C#_Seminar\Zadacha_421\bin\Debug\net6.0\Zadacha_421.runtimeconfig.json
+D:\Рабочий стол\C#_Seminar\Zadacha_421\bin\Debug\net6.0\Zadacha_421.dll
+D:\Рабочий стол\C#_Seminar\Zadacha_421\bin\Debug\net6.0\Zadacha_421.pdb
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\Zadacha_421.dll
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\refint\Zadacha_421.dll
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\Zadacha_421.pdb
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\Zadacha_421.genruntimeconfig.cache
+D:\Рабочий стол\C#_Seminar\Zadacha_421\obj\Debug\net6.0\ref\Zadacha_421.dll
